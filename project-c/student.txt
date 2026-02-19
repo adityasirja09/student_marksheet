@@ -1,0 +1,1 @@
+101 "aditya" "MCA" "9512355750" "rajkot" "gujrat" "aditya@" 1 90 99 99 98 99 "lj" 485 97.00 "Distinction"
